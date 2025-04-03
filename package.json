@@ -1,0 +1,13 @@
+{
+  
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@dnvgl/playwright-live-recorder": "^2.0.57",
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.10.10"
+    
+  },
+  "scripts": {}
+}
