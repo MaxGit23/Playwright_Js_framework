@@ -4,6 +4,8 @@ const { test, expect } = require('@playwright/test');
 const SearchPage = require('../pagesObjects/Search.js');
 const FlightsResultsPage = require('../pages/FlightsResults.js'); // Should this also be in pagesObjects?
 
+// added comment
+
 test.describe('Flight Search Functionality', () => {
   // Use camelCase for variable names, distinct from Class names
   let searchPage;
