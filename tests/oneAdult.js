@@ -9,6 +9,7 @@ test.describe('Flight Search Functionality', () => {
   let searchPage;
   let flightsResultsPage;
 //hdhhd
+// new comment
   test.beforeEach(async ({ page }) => {
     // Instantiate classes using the correct Class names
     // Assign instances to the camelCase variables
